@@ -9,7 +9,7 @@ lxml==4.3.3
 MarkupSafe==1.1.1
 pyTelegramBotAPI==3.6.6
 python-dotenv==0.10.3
-requests==2.7.0
+requests==2.20.0
 selenium==3.141.0
 six==1.12.0
 soupsieve==1.9.1
